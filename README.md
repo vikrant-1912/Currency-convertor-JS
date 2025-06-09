@@ -1,4 +1,10 @@
-# 💱 Currency Converter
+# 💱 Currency Converter   - Plain JS With Fetch API 
+
+
+
+NOTE : 
+( API isn't Work as it is expired , will fix API Issue sooon )
+
 
 
 Convert between currencies using real-time exchange rates (static/dummy or API-based). Built to understand event handling and user input.
