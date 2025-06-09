@@ -3,7 +3,7 @@
 
 
 NOTE : 
-( API isn't Work as it is expired , will fix API Issue sooon )
+( API isn't Working , as it is expired , will fix API Issue sooon )
 
 
 
