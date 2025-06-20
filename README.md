@@ -31,7 +31,7 @@ Convert between currencies using real-time exchange rates (static/dummy or API-b
 
 
 ## 🌐 Live Demo
-To be ADDED SOOON , When deployed on My NETLIFY / Vercel  Hosting & Deployment Acoounts.
+To be ADDED SOOON...
 
 
 
